@@ -1,7 +1,8 @@
 
-.img-fluid{
+#logo{
     width: 350px;
 }
+
 .navbar{
 opacity: 0.6;
 }
@@ -11,18 +12,11 @@ opacity: 0.6;
     margin-right: 40px;
 }
 
-  .imagem{
-    width: 110%;
-  }
+ .img-fluid{
+  width: 100%;
+ }
 
-  .imagem3{
-    width: 150%;
-  }
 
-  .servicos{
-    position: relative;
-    display: inline-block;
-  }
 
   .titulos{
     background-color: #464242;
